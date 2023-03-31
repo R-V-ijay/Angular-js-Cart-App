@@ -1,0 +1,79 @@
+[
+  {
+    "id": "101",
+    "name": "KTM",
+    "title": "best sports bike",
+    "price": "80000",
+    "img": "../../assets/img/1.jpg"
+  },
+  {
+    "id": "102",
+    "name": "KTM",
+    "title": "best sports bike",
+    "price": "110000",
+    "img": "../../assets/img/2.jpg"
+  },
+  {
+    "id": "103",
+    "name": "harley davidson",
+    "title": "best sports bike",
+    "price": "150000",
+    "img": "../../assets/img/3.webp"
+  },
+  {
+    "id": "104",
+    "name": "harley davidson",
+    "title": "best sports bike",
+    "price": "180000",
+    "img": "../../assets/img/4.jpg"
+  },
+  {
+    "id": "105",
+    "name": "hayabusa",
+    "title": "best sports bike",
+    "price": "210000",
+    "img": "../../assets/img/5.webp"
+  },
+  {
+    "id": "106",
+    "name": "royal enfield",
+    "title": "best sports bike",
+    "price": "120000",
+    "img": "../../assets/img/6.jpg"
+  },
+  {
+    "id": "107",
+    "name": "New launch",
+    "title": "best sports bike",
+    "price": "120000",
+    "img": "../../assets/img/7.webp"
+  },
+  {
+    "id": "108",
+    "name": "New launch",
+    "title": "best sports bike",
+    "price": "120000",
+    "img": "../../assets/img/8.webp"
+  },
+  {
+    "id": "109",
+    "name": "Ninja",
+    "title": "best sports bike",
+    "price": "165000",
+    "img": "../../assets/img/9.jpg"
+  },
+  {
+    "id": "110",
+    "name": "MT",
+    "title": "best sports bike",
+    "price": "215000",
+    "img": "../../assets/img/10.jpg"
+  },
+  {
+    "id": "111",
+    "name": "NS",
+    "title": "best sports bike",
+    "price": "215000",
+    "img": "../../assets/img/11.jpg"
+  }
+]
